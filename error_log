@@ -1,0 +1,2 @@
+[18-Apr-2023 23:36:54 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 8192 bytes) in /home1/adminc1m3cmx/public_html/wp-includes/capabilities.php on line 1223
+[19-Apr-2023 06:11:23 UTC] Error de evento de reprogramación de cron para el hook: rsssl_every_five_minutes_hook. Código de error: could_not_set. Mensaje de error: No se ha podido guardar la lista de eventos del cron.. Datos: {"schedule":"rsssl_five_minutes","args":[],"interval":300}
